@@ -1,7 +1,8 @@
 # Heart-Disease-Prediction
----
+Predict which patients are more likely to suffer heart disease in the near future.
 
-## Predict which patients are more likely to suffer heart disease in the near future.
+---
+## Methodology:
 * Created **modified version of data** by transforming ordinal features to categorical names and conversion
 of data types for better interpretation. 
 * Performed **EDA** to gain insights in distributions in subcategories of each variable, hist plots to check
